@@ -501,7 +501,7 @@ let
                 # Fixes test-suite on glibc 2.40 (https://github.com/llvm/llvm-project/pull/100804)
                 (fetchpatch2 {
                   url = "https://github.com/llvm/llvm-project/commit/1e8df9e85a1ff213e5868bd822877695f27504ad.patch";
-                  hash = "sha256-EX+PYGicK73lsL/J0kSZ4S5y1/NHIclBddhsnV6NPPI=";
+                  hash = "sha256-ohjgqbgwNSazhVHaiD3bwIoIJRA635Q3tko3GxmP27M=";
                   stripLen = 1;
                 })
               ]
